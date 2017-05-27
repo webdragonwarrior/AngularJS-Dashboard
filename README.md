@@ -1,9 +1,3 @@
-angular-dashboard
-====================
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DataTorrent/malhar-angular-dashboard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
-[![Build Status](https://travis-ci.org/DataTorrent/malhar-angular-dashboard.svg?branch=master)](https://travis-ci.org/DataTorrent/malhar-angular-dashboard)
-
 Generic AngularJS component/directive providing dashboard/widgets functionality.
 
 
@@ -40,17 +34,6 @@ You acknowledge that your submissions to DataTorrent on this repository are made
 When **adding new javascript files**, please prepend the Apache v2.0 license header, which can be found in [CONTRIBUTING.md file](https://github.com/DataTorrent/malhar-angular-dashboard/blob/master/CONTRIBUTING.md).
 
 
-Examples
---------
-
-[Simple demo](http://datatorrent.github.io/malhar-angular-dashboard/#/) (minimum dependencies) [[source code](src/app)]
-
-[Advanced demo](http://datatorrent.github.io/malhar-dashboard-webapp/#/) (charts, visualization, data sources, etc.) [[source code](https://github.com/DataTorrent/malhar-dashboard-webapp)]
-
-UI Console (very complex application; REST, WebSocket and Socket.IO data sources; dashboard customization; etc.) [[source code](https://github.com/DataTorrent/malhar-ui-console)]
-
-Widget Library using the dashboard [[source code](https://github.com/DataTorrent/malhar-angular-widgets)]
-
 ![AngularJS Dashboard](docs/AngularJSDashboard.png "AngularJS Dashboard")
 
 Build
@@ -77,8 +60,6 @@ Example of including dependencies from CDN [here](src/index.html)
 
 Getting Started
 ---------------
-
-See [demo](http://datatorrent.github.io/malhar-angular-dashboard/#/) (several widgets) for a quick start.
 
 Running demo.
 
