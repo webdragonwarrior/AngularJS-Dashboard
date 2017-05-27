@@ -387,23 +387,4 @@ key | type | default value | required | description
 
 As with `dashboardOptions`, `layoutOptions` gets endowed with the methods `addWidget`, `loadWidgets`, `saveDashboard` and `loadDashboard`. These will be applied to the currently active dashboard layout. Additionally, a method called `saveLayouts` is attached to the `layoutOptions` object. This method will save the state of the layouts explicitly.
 
-Links
------
 
-[malhar-angular-widgets](https://github.com/DataTorrent/malhar-angular-widgets) Widget library (widgets, data models, WebSocket, etc.)
-
-[malhar-dashboard-webapp](https://github.com/DataTorrent/malhar-dashboard-webapp) Demo using this dashboard and widget library
-
-[Node.js](http://nodejs.org/) Software platform built on JavaScript runtime
-
-[AngularJS](http://angularjs.org/) JavaScript framework
-
-[ui-sortable](https://github.com/angular-ui/ui-sortable) AngularJS UI Sortable
-
-[jQuery UI Sortable](http://jqueryui.com/sortable/) jQuery UI Sortable plugin (reordering with drag and drop)
-
-[Bower](http://bower.io/) Package manager for the web
-
-[Grunt](http://gruntjs.com/) JavaScript task runner
-
-[Gulp](http://gulpjs.com/) Streaming build system
